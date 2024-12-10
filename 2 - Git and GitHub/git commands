@@ -18,7 +18,7 @@ A - Added
 M - Modified
 U - Untracked
 
-<Checking the the Status of the commit>
+<Checking the Commit Status of the commit>
 -git status
 
 <Creating a new Branch>
