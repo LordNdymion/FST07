@@ -19,7 +19,12 @@
 #Clearing the terminal 
 -clear
 
-#Initialized empty Git repositoryl
+#Initialized empty Git repository
 -git init
 
+#
+-git add .
+
+#
+-git commit -m "CLI Notes"
 
