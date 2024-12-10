@@ -2,18 +2,30 @@
 -git init
 
 <Add to our Staging Area>
---git add .
+-git add .
 
 <Make another version>
---git commit -m "<Description.>"
+-git commit -m "<Description.>"
 
 <Show history of every commit>
---git log
+-git log
 
 <Show history of commits, 1 line>
---git log --oneline
+-git log --oneline
 
 <Legends>
 A - Added
 M - Modified
 U - Untracked
+
+<Check on the Status of the commit>
+-git status
+
+<Creating a new Branch>
+-git branch <"BranchName>
+
+<List all the given Branches>
+-git branch -a
+
+<Switch to another Branch>
+-git checkout <"BranchName>
