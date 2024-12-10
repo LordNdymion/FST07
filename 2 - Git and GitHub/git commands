@@ -5,4 +5,15 @@
 --git add .
 
 <Make another version>
---git commit -m "<Description.>" 
+--git commit -m "<Description.>"
+
+<Show history of every commit>
+--git log
+
+<Show history of commits, 1 line>
+--git log --oneline
+
+<Legends>
+A - Added
+M - Modified
+U - Untracked
